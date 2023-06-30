@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20682969573",
+    "project_id": "trading-app-e6029",
+    "storage_bucket": "trading-app-e6029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20682969573:android:17fb0655d66b1b4dbc9f0c",
+        "android_client_info": {
+          "package_name": "com.example.trading_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20682969573-24qq8k1n1ikflph3es9t5nvr384ni60v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDytI8PScPXoBc0_QMwZ08U1vjQf6zqA6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20682969573-24qq8k1n1ikflph3es9t5nvr384ni60v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
